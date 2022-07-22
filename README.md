@@ -24,7 +24,7 @@ The BBC are looking to improve their online offering of educational content by d
 # To Run App follow the steps below:
 
 - Clone the repository
-
+- Change directory to client
 - npm install
 
 ```sh
