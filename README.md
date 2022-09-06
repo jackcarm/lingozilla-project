@@ -49,5 +49,5 @@ npm run server:dev
 
 ```sh
 npm start
-``` 
+````
 
